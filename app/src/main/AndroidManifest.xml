@@ -21,6 +21,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <activity android:name=".HomeActivity" />
+        <activity android:name=".CardioExercisesActivity" />
+        <activity android:name=".MuscleGainExercisesActivity" />
+        <activity android:name=".DietManagementActivity" />
+        <activity android:name=".SportChallengesActivity" />
+
+
     </application>
 
 </manifest>
