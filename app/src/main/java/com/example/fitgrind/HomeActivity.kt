@@ -19,7 +19,9 @@ class HomeActivity : AppCompatActivity() {
             HomeMenuItem("Lose Weight", "Cardio Exercises", R.drawable.img_cardio),
             HomeMenuItem("Gain Muscle", "Muscle Gain Exercise", R.drawable.img_gain_muscle),
             HomeMenuItem("Manage Food Diet", "Diet Management", R.drawable.img_diet),
-            HomeMenuItem("Sports", "Sports Challenges", R.drawable.img_sports)
+            HomeMenuItem("Sports", "Sports Challenges", R.drawable.img_sports),
+            HomeMenuItem("Set Exercise Routine", "Set Routine", R.drawable.img_routine),
+            HomeMenuItem("", "Resting", R.drawable.img_resting)
         )
 
         recyclerView.layoutManager = LinearLayoutManager(this)
@@ -29,6 +31,8 @@ class HomeActivity : AppCompatActivity() {
                 "Muscle Gain Exercise" -> startActivity(Intent(this, MuscleGainExercisesActivity::class.java))
                 "Diet Management" -> startActivity(Intent(this, DietManagementActivity::class.java))
                 "Sports Challenges" -> startActivity(Intent(this, SportChallengesActivity::class.java))
+                "Set Routine" -> startActivity(Intent(this, SetExerciseRoutineActivity::class.java))
+                "Resting" -> startActivity(Intent(this, RestingActivity::class.java))
             }
         }
     }

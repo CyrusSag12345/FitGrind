@@ -27,6 +27,8 @@
         <activity android:name=".MuscleGainExercisesActivity" />
         <activity android:name=".DietManagementActivity" />
         <activity android:name=".SportChallengesActivity" />
+        <activity android:name=".SetExerciseRoutineActivity" />
+        <activity android:name=".RestingActivity" />
 
 
     </application>
