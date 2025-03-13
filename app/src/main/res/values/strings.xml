@@ -1,3 +1,50 @@
 <resources>
     <string name="app_name">FitGrind</string>
+
+
+
+    <!--  Generic Strings  -->
+    <string name="read_more">Read More</string>
+
+
+
+
+
+
+    <!--  Cardio Exercises Activity stuff  -->
+    <string name="cardio_why_lose_weight">Why Lose Weight?</string>
+    <string name="cardio_why_lose_weight_desc">
+        Losing weight is not about extreme restrictions or temporary solutions—it’s about creating
+        sustainable habits that support a healthier, stronger body. It’s a journey of discipline,
+        consistency, and smart choices, where every step forward brings you closer to your goals.
+        Through balanced nutrition, effective training, and the right mindset, weight loss becomes
+        more than just a number on the scale; it becomes a transformation of both body and mind.
+        Commit to the process, trust the grind, and let your progress speak for itself.
+    </string>
+
+    <string name="cardio_how_does_cardio_affect_weight_loss">How does Cardio affect Weight Loss?</string>
+    <string name="cardio_how_does_cardio_affect_weight_loss_desc">
+        Cardio plays a crucial role in weight loss by increasing your heart rate, boosting calorie
+        burn, and improving overall metabolism. Engaging in activities like running, cycling, or
+        HIIT helps create a caloric deficit, which is essential for shedding excess fat. Additionally,
+        cardio enhances cardiovascular health, increases endurance, and supports better recovery
+        from strength training. While it’s effective on its own, combining cardio with resistance
+        training and proper nutrition leads to more sustainable and efficient weight loss results.
+    </string>
+
+    <string name="cardio_benefits">Benefits of Doing Cardio</string>
+    <string name="cardio_benefits_desc">
+        Burns Calories &amp; Aids Weight Loss – Cardio helps create a calorie deficit, making it one of the most effective ways to shed fat and maintain a healthy weight.
+        \n\nStrengthens the Heart &amp; Lungs – Improves cardiovascular efficiency, reducing the risk of heart disease and enhancing oxygen circulation.
+        \n\nBoosts Metabolism – Keeps your body burning calories even after exercise, leading to increased fat loss and energy expenditure.
+        \n\nEnhances Sleep &amp; Mood – Releases endorphins, reducing stress, improving sleep quality, and boosting overall mental well-being.
+        \n\nIncreases Stamina &amp; Endurance – Builds physical resilience, making daily activities easier and improving athletic performance.
+        \n\nRegulates Blood Sugar &amp; Cholesterol – Helps maintain healthy glucose levels
+    </string>
+
+    <string name="cardio_types">Types of Cardio Exercise</string>
+    <string name="cardio_jogging">Jogging</string>
+    <string name="cardio_jumpingjacks">Jumping Jacks</string>
+    <string name="cardio_jumprope">Jump Rope</string>
+    <string name="cardio_cycling">Cycling</string>
 </resources>
